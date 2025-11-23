@@ -104,6 +104,11 @@ button{
   cursor: pointer;
 }
 
+button:hover{
+  transform: scale(1.05);
+  transition: 0.3s;
+}
+
 
 footer{
   background: #004aad;
